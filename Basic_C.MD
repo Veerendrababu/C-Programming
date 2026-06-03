@@ -17,7 +17,6 @@ Welcome to the C Programming Documentation! This document provides an overview o
 9. [Input/Output](#input-output)
 10. [Standard Library](#standard-library)
 11. [Best Practices](#best-practices)
-12. [Resources](#resources)
 
 ## Getting Started
 
